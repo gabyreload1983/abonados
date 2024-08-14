@@ -17,7 +17,7 @@
     ]
   },
   {
-    "empresa": "Innovatech",
+    "empresa": "GRUMAQ",
     "dispositivos": [
       {
         "nombre": "Switch Principal",
@@ -28,8 +28,8 @@
         "mac": "44:5E:6F:7G:8H:9I"
       },
       {
-        "nombre": "Servidor Backup",
-        "mac": "55:6F:7G:8H:9I:0J"
+        "nombre": "PC007",
+        "mac": "08-00-27-D9-F2-7F"
       }
     ]
   },
