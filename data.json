@@ -1,0 +1,53 @@
+[
+  {
+    "empresa": "Tech Solutions",
+    "dispositivos": [
+      {
+        "nombre": "Servidor Principal",
+        "mac": "00:1A:2B:3C:4D:5E"
+      },
+      {
+        "nombre": "Router Oficina",
+        "mac": "11:2B:3C:4D:5E:6F"
+      },
+      {
+        "nombre": "Impresora Principal",
+        "mac": "22:3C:4D:5E:6F:7G"
+      }
+    ]
+  },
+  {
+    "empresa": "Innovatech",
+    "dispositivos": [
+      {
+        "nombre": "Switch Principal",
+        "mac": "33:4D:5E:6F:7G:8H"
+      },
+      {
+        "nombre": "Router Backup",
+        "mac": "44:5E:6F:7G:8H:9I"
+      },
+      {
+        "nombre": "Servidor Backup",
+        "mac": "55:6F:7G:8H:9I:0J"
+      }
+    ]
+  },
+  {
+    "empresa": "Global Enterprises",
+    "dispositivos": [
+      {
+        "nombre": "Firewall",
+        "mac": "66:7G:8H:9I:0J:1K"
+      },
+      {
+        "nombre": "Router Principal",
+        "mac": "77:8H:9I:0J:1K:2L"
+      },
+      {
+        "nombre": "Servidor de Datos",
+        "mac": "88:9I:0J:1K:2L:3M"
+      }
+    ]
+  }
+]
