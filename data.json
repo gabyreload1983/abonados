@@ -4,15 +4,15 @@
     "dispositivos": [
       {
         "nombre": "Servidor Principal",
-        "mac": "00:1A:2B:3C:4D:5E"
+        "mac": "00-1A-2B-3C-4D-5E"
       },
       {
         "nombre": "Router Oficina",
-        "mac": "11:2B:3C:4D:5E:6F"
+        "mac": "11-2B-3C-4D-5E-6F"
       },
       {
         "nombre": "Impresora Principal",
-        "mac": "22:3C:4D:5E:6F:7G"
+        "mac": "22-3C-4D-5E-6F-7G"
       }
     ]
   },
@@ -21,11 +21,11 @@
     "dispositivos": [
       {
         "nombre": "Switch Principal",
-        "mac": "33:4D:5E:6F:7G:8H"
+        "mac": "33-4D-5E-6F-7G-8H"
       },
       {
         "nombre": "Router Backup",
-        "mac": "44:5E:6F:7G:8H:9I"
+        "mac": "44-5E-6F-7G-8H-9I"
       },
       {
         "nombre": "PC008",
@@ -38,15 +38,15 @@
     "dispositivos": [
       {
         "nombre": "Firewall",
-        "mac": "66:7G:8H:9I:0J:1K"
+        "mac": "66-7G-8H-9I-0J-1K"
       },
       {
         "nombre": "Router Principal",
-        "mac": "77:8H:9I:0J:1K:2L"
+        "mac": "77-8H-9I-0J-1K-2L"
       },
       {
         "nombre": "Servidor de Datos",
-        "mac": "88:9I:0J:1K:2L:3M"
+        "mac": "88-9I-0J-1K-2L-3M"
       }
     ]
   }
