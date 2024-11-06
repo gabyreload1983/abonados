@@ -1,53 +1,12 @@
 [
-  {
-    "empresa": "Tech Solutions",
-    "dispositivos": [
-      {
-        "nombre": "Servidor Principal",
-        "mac": "00-1A-2B-3C-4D-5E"
-      },
-      {
-        "nombre": "Router Oficina",
-        "mac": "11-2B-3C-4D-5E-6F"
-      },
-      {
-        "nombre": "Impresora Principal",
-        "mac": "22-3C-4D-5E-6F-7G"
-      }
-    ]
-  },
-  {
-    "empresa": "GRUMAQ",
-    "dispositivos": [
-      {
-        "nombre": "Switch Principal",
-        "mac": "33-4D-5E-6F-7G-8H"
-      },
-      {
-        "nombre": "Router Backup",
-        "mac": "44-5E-6F-7G-8H-9I"
-      },
-      {
-        "nombre": "PC008",
-        "mac": "08-00-27-85-E9-9E"
-      }
-    ]
-  },
-  {
-    "empresa": "Global Enterprises",
-    "dispositivos": [
-      {
-        "nombre": "Firewall",
-        "mac": "66-7G-8H-9I-0J-1K"
-      },
-      {
-        "nombre": "Router Principal",
-        "mac": "77-8H-9I-0J-1K-2L"
-      },
-      {
-        "nombre": "Servidor de Datos",
-        "mac": "88-9I-0J-1K-2L-3M"
-      }
-    ]
-  }
+    "11-2B-3C-4D-5E-6F",
+    "12-3C-4D-5E-6F-7A",
+    "13-4E-5F-6A-7B-8C",
+    "14-5D-6E-7F-8A-9B",
+    "15-6A-7B-8C-9D-AE",
+    "16-7B-8C-9D-AE-BF",
+    "17-8C-9D-AE-BF-CG",
+    "18-9D-AE-BF-CG-DH",
+    "19-AE-BF-CG-DH-EI",
+    "1A-BF-CG-DH-EI-FJ"
 ]
